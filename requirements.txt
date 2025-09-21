@@ -8,5 +8,5 @@ tensorboardX
 transformers == 2.10.0
 scipy  
 seqeval 
-sklearn 
+scikit-learn 
 urllib3==1.26.5
